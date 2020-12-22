@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ildiko Tombor | Dr Olga Perski</title>
+    <link>/authors/ildiko-tombor/</link>
+      <atom:link href="/authors/ildiko-tombor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ildiko Tombor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ildiko Tombor</title>
+      <link>/authors/ildiko-tombor/</link>
+    </image>
+    
+    <item>
+      <title>Predictors of Engagement, Response to Follow Up, and Extent of Alcohol Reduction in Users of a Smartphone App (Drink Less): Secondary Analysis of a Factorial Randomized Controlled Trial</title>
+      <link>/publication/article4/index4/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/article4/index4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

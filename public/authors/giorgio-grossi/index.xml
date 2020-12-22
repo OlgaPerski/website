@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giorgio Grossi | Dr Olga Perski</title>
+    <link>/authors/giorgio-grossi/</link>
+      <atom:link href="/authors/giorgio-grossi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giorgio Grossi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Giorgio Grossi</title>
+      <link>/authors/giorgio-grossi/</link>
+    </image>
+    
+    <item>
+      <title>A systematic review and meta‐analysis of tertiary interventions in clinical burnout</title>
+      <link>/publication/article3/index3/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/article3/index3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

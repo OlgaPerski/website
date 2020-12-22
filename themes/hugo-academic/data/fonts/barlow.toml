@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Barlow"
+
+# Optional Google font URL
+google_fonts = "Barlow Condensed"
+
+# Font families
+heading_font = "Barlow Condensed"
+body_font = "Barlow Condensed"
+nav_font = "Barlow Condensed"
+mono_font = "Barlow Condensed"

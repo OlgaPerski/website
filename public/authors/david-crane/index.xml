@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Crane | Dr Olga Perski</title>
+    <link>/authors/david-crane/</link>
+      <atom:link href="/authors/david-crane/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Crane</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>David Crane</title>
+      <link>/authors/david-crane/</link>
+    </image>
+    
+    <item>
+      <title>A self-report measure of engagement with digital behavior change interventions (DBCIs): Development and psychometric evaluation of the “DBCI Engagement Scale”</title>
+      <link>/publication/article17/index17/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/article17/index17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does the addition of a supportive chatbot promote user engagement with a smoking cessation app? An experimental study</title>
+      <link>/publication/article14/index14/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/article14/index14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of an offer of the Smoke Free smartphone application for smoking cessation: protocol for a randomized controlled trial</title>
+      <link>/publication/article15/index15/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/article15/index15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

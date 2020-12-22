@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ann Blandford | Dr Olga Perski</title>
+    <link>/authors/ann-blandford/</link>
+      <atom:link href="/authors/ann-blandford/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ann Blandford</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ann Blandford</title>
+      <link>/authors/ann-blandford/</link>
+    </image>
+    
+    <item>
+      <title>A self-report measure of engagement with digital behavior change interventions (DBCIs): Development and psychometric evaluation of the “DBCI Engagement Scale”</title>
+      <link>/publication/article17/index17/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/article17/index17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Psychometric Properties of the Digital Behavior Change Intervention Engagement Scale in Users of an App for Reducing Alcohol Consumption: Evaluation Study</title>
+      <link>/publication/article12/index12/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/article12/index12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Daily Fluctuations in Psychological and App-Related Variables Predict Engagement With an Alcohol Reduction App? A Series of N-Of-1 Studies</title>
+      <link>/publication/article11/index11/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/article11/index11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engagement features judged by excessive drinkers as most important to include in smartphone applications for alcohol reduction: A mixed-methods study</title>
+      <link>/publication/article8/index8/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/article8/index8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seven lessons for interdisciplinary research on interactive digital health interventions</title>
+      <link>/publication/article6/index6/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/article6/index6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceptualising engagement with digital behaviour change interventions: a systematic review using principles from critical interpretive synthesis</title>
+      <link>/publication/article1/index1/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/article1/index1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smokers’ and drinkers’ choice of smartphone applications and expectations of engagement: a think aloud and interview study</title>
+      <link>/publication/article2/index2/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/article2/index2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

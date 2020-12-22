@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Della Respira"
+
+# Optional Google font URL
+google_fonts = "Della+Respira"
+
+# Font families
+heading_font = "Della Respira"
+body_font = "Della Respira"
+nav_font = "Della Respira"
+mono_font = "Della Respira"

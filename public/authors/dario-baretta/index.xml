@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dario Baretta | Dr Olga Perski</title>
+    <link>/authors/dario-baretta/</link>
+      <atom:link href="/authors/dario-baretta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dario Baretta</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Dario Baretta</title>
+      <link>/authors/dario-baretta/</link>
+    </image>
+    
+    <item>
+      <title>Exploring Users’ Experiences of the Uptake and Adoption of Physical Activity Apps: Longitudinal Qualitative Study</title>
+      <link>/publication/article9/index9/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/article9/index9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engagement features judged by excessive drinkers as most important to include in smartphone applications for alcohol reduction: A mixed-methods study</title>
+      <link>/publication/article8/index8/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/article8/index8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

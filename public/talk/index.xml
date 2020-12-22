@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Dr Olga Perski</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Aug 2019 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Can just-in-time adaptive interventions help solve the engagement crisis?</title>
+      <link>/talk/talk2/</link>
+      <pubDate>Tue, 06 Aug 2019 14:00:00 +0000</pubDate>
+      <guid>/talk/talk2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an operational definition of engagement with digital behaviour change interventions</title>
+      <link>/talk/talk1/</link>
+      <pubDate>Mon, 19 Feb 2018 19:00:00 +0000</pubDate>
+      <guid>/talk/talk1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jo Gibbs | Dr Olga Perski</title>
+    <link>/authors/jo-gibbs/</link>
+      <atom:link href="/authors/jo-gibbs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jo Gibbs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jo Gibbs</title>
+      <link>/authors/jo-gibbs/</link>
+    </image>
+    
+    <item>
+      <title>Seven lessons for interdisciplinary research on interactive digital health interventions</title>
+      <link>/publication/article6/index6/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/article6/index6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
