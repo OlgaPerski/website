@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sexual health | Dr Olga Perski</title>
+    <link>/tags/sexual-health/</link>
+      <atom:link href="/tags/sexual-health/index.xml" rel="self" type="application/rss+xml" />
+    <description>sexual health</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Dec 2020 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>sexual health</title>
+      <link>/tags/sexual-health/</link>
+    </image>
+    
+    <item>
+      <title>Systematic review of Ecological Momentary Assessment (EMA) studies of five public health-related behaviours</title>
+      <link>/project/ema_review/</link>
+      <pubDate>Mon, 21 Dec 2020 15:00:00 +0000</pubDate>
+      <guid>/project/ema_review/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m co-leading a large systematic review of ecological momentary assessment (EMA) studies targeting five public health-related behaviours, including smoking, alcohol, physical activity, dietary behaviours and sexual health-related behaviours. Findings from this review are expected to inform design decisions in future observational EMA studies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

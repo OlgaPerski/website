@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Dec 2020 15:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
@@ -13,24 +13,49 @@
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
-      <description></description>
+      <title>Conceptualisation, measurement and promotion of engagement with digital behaviour change interventions</title>
+      <link>/project/engagement/</link>
+      <pubDate>Mon, 21 Dec 2020 15:00:00 +0000</pubDate>
+      <guid>/project/engagement/</guid>
+      <description>&lt;p&gt;I first started working on the problem of engagement with digital behaviour change interventions as part of my MSc project (2014-2015). Here, I explored users’ &lt;a href=&#34;https://shop.bps.org.uk/health-psychology-update-vol-26-no-1-spring-2017&#34;&gt;real-world engagement&lt;/a&gt; with a novel smoking cessation app, BupaQuit.&lt;/p&gt;
+&lt;p&gt;My &lt;a href=&#34;https://discovery.ucl.ac.uk/id/eprint/10063428/&#34;&gt;PhD thesis&lt;/a&gt; (2015-2018) comprised 6 studies and aimed to gain a better understanding of how to define, measure and promote engagement with digital interventions in general, and with apps for smoking cessation and alcohol reduction in particular. As part of this work, I led &lt;a href=&#34;https://academic.oup.com/tbm/article/7/2/254/4563238&#34;&gt;an interdisciplinary, systematic review&lt;/a&gt; and generated a two-part, integrative definition of digital engagement and a conceptual framework. I used semi-structured interviews and online surveys to develop &lt;a href=&#34;https://academic.oup.com/tbm/article/10/1/267/5423758&#34;&gt;a self-report measure of digital engagement&lt;/a&gt; and &lt;a href=&#34;https://www.jmir.org/2019/11/e16197/&#34;&gt;evaluated&lt;/a&gt; the new measure in two different populations. I also conducted &lt;a href=&#34;https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0422-8&#34;&gt;a think aloud and interview study&lt;/a&gt; and &lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/2055207618785841&#34;&gt;a focus group study&lt;/a&gt; to gain a better understanding of factors that influence engagement with apps for smoking cessation alcohol reduction, in addition to &lt;a href=&#34;https://mhealth.jmir.org/2019/10/e14098/&#34;&gt;a series of N-of-1 studies&lt;/a&gt;, harnessing smartphone-enabled daily ecological momentary assessments, to explore within-person fluctuations in psychological and behavioural variables (e.g. motivation, extent of alcohol consumption) and their associations with users’ app engagement.&lt;/p&gt;
+&lt;p&gt;During my post-doctoral training, I&amp;rsquo;ve become increasingly persuaded that emerging technologies (e.g. chatbots, virtual reality) and novel intervention designs (e.g. hybrid human-digital interventions, &amp;lsquo;just-in-time adaptive interventions&amp;rsquo;) have potential for counteracting the observed ‘engagement crisis’. In collaboration with the architect of &lt;a href=&#34;https://smokefreeapp.com/&#34;&gt;the Smoke Free app&lt;/a&gt;, I&amp;rsquo;ve conducted &lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/2055207619880676&#34;&gt;an experimental study&lt;/a&gt; with &amp;gt;55,000 smokers to examine the added effect of a supportive chatbot underpinned by artificial intelligence on user engagement and short-term quit success. The results were positive, with the addition of the chatbot more than doubling rates of engagement and increasing self-reported quit success at a 1-month follow-up. I&amp;rsquo;m currently leading a qualitative process evaluation which forms part of &lt;a href=&#34;https://bmjopen.bmj.com/content/10/11/e036568&#34;&gt;a feasibility study&lt;/a&gt; of a hybrid human-digital smoking cessation intervention, integrated in the UK thoracic surgical pathway, and a feasibility study of a brief virtual reality scenario for smokers unmotivated to stop.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Development, optimisation and evaluation of apps for smoking cessation and alcohol reduction</title>
+      <link>/project/smoking_apps/</link>
+      <pubDate>Mon, 21 Dec 2020 15:00:00 +0000</pubDate>
+      <guid>/project/smoking_apps/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m regularly involved in the development, optimisation and evaluation of apps for smoking cessation and alcohol reduction, including the evaluation of &lt;a href=&#34;https://www.mdpi.com/1660-4601/15/2/288&#34;&gt;digitally enabled personal carbon monoxide monitors and related smoking cessation apps&lt;/a&gt;, the refinement of the content and design of &lt;a href=&#34;https://drinklessalcohol.com/&#34;&gt;the Drink Less app&lt;/a&gt; and the evaluation of the popular Smoke Free app in a &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/add.14652&#34;&gt;parallel-arm, randomised controlled trial&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Smoking, vaping and COVID-19</title>
+      <link>/project/covid/</link>
+      <pubDate>Mon, 21 Dec 2020 15:00:00 +0000</pubDate>
+      <guid>/project/covid/</guid>
+      <description>&lt;p&gt;During the ongoing COVID-19 pandemic, I&amp;rsquo;m co-leading a &lt;a href=&#34;https://www.qeios.com/read/UJR2AW.10&#34;&gt;living evidence review&lt;/a&gt; (updated 9 times to-date, with &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1111/add.15276&#34;&gt;version 7&lt;/a&gt; published in a peer-reviewed journal) on the association of smoking status with SARS-CoV-2 infection, hospitalisation, disease severity and mortality, which is updated every other month. Each update is shared directly with Public Health England’s tobacco control team and Action on Smoking &amp;amp; Health. I&amp;rsquo;m also co-leading a &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2020.11.26.20238469v1.full&#34;&gt;case-control study&lt;/a&gt; at a single UK hospital site to examine the association of smoking status with hospitalisation for COVID-19 compared with other respiratory viruses a year previous, and contribute to a &lt;a href=&#34;https://www.ucl-covid19research.co.uk/&#34;&gt;large survey study&lt;/a&gt; to gain a better understanding of the impact of COVID-19 on smoking, &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2020.12.01.20241760v1&#34;&gt;vaping&lt;/a&gt; and alcohol consumption among UK adults.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Systematic review of Ecological Momentary Assessment (EMA) studies of five public health-related behaviours</title>
+      <link>/project/ema_review/</link>
+      <pubDate>Mon, 21 Dec 2020 15:00:00 +0000</pubDate>
+      <guid>/project/ema_review/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m co-leading a large systematic review of ecological momentary assessment (EMA) studies targeting five public health-related behaviours, including smoking, alcohol, physical activity, dietary behaviours and sexual health-related behaviours. Findings from this review are expected to inform design decisions in future observational EMA studies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UCL Smoking and Alcohol Toolkit Studies</title>
+      <link>/project/smoking-toolkit-study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/smoking-toolkit-study/</guid>
+      <description></description>
     </item>
     
   </channel>

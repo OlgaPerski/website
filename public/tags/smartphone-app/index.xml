@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>smartphone app | Dr Olga Perski</title>
+    <link>/tags/smartphone-app/</link>
+      <atom:link href="/tags/smartphone-app/index.xml" rel="self" type="application/rss+xml" />
+    <description>smartphone app</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Dec 2020 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>smartphone app</title>
+      <link>/tags/smartphone-app/</link>
+    </image>
+    
+    <item>
+      <title>Development, optimisation and evaluation of apps for smoking cessation and alcohol reduction</title>
+      <link>/project/smoking_apps/</link>
+      <pubDate>Mon, 21 Dec 2020 15:00:00 +0000</pubDate>
+      <guid>/project/smoking_apps/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m regularly involved in the development, optimisation and evaluation of apps for smoking cessation and alcohol reduction, including the evaluation of &lt;a href=&#34;https://www.mdpi.com/1660-4601/15/2/288&#34;&gt;digitally enabled personal carbon monoxide monitors and related smoking cessation apps&lt;/a&gt;, the refinement of the content and design of &lt;a href=&#34;https://drinklessalcohol.com/&#34;&gt;the Drink Less app&lt;/a&gt; and the evaluation of the popular Smoke Free app in a &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/add.14652&#34;&gt;parallel-arm, randomised controlled trial&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

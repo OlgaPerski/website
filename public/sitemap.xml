@@ -18,6 +18,106 @@
   </url>
   
   <url>
+    <loc>/tags/alcohol/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/behaviour-change-interventions/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/engagement/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/covid-19/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/smoking_apps/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/diet/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ecological-momentary-assessment/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/engagement/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/living-review/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/meta-analysis/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/phsyical-activity/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sexual-health/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/smartphone-app/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/smoking/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/covid/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/systematic-review/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/ema_review/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-21T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -74,11 +174,6 @@
   
   <url>
     <loc>/tags/source-themes/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -263,21 +358,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/article7/index7/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -358,31 +438,6 @@
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -425,6 +480,14 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/demo/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/smoking-toolkit-study/</loc>
   </url>
   
 </urlset>

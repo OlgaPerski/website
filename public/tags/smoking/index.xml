@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>smoking | Dr Olga Perski</title>
+    <link>/tags/smoking/</link>
+      <atom:link href="/tags/smoking/index.xml" rel="self" type="application/rss+xml" />
+    <description>smoking</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Dec 2020 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>smoking</title>
+      <link>/tags/smoking/</link>
+    </image>
+    
+    <item>
+      <title>Development, optimisation and evaluation of apps for smoking cessation and alcohol reduction</title>
+      <link>/project/smoking_apps/</link>
+      <pubDate>Mon, 21 Dec 2020 15:00:00 +0000</pubDate>
+      <guid>/project/smoking_apps/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m regularly involved in the development, optimisation and evaluation of apps for smoking cessation and alcohol reduction, including the evaluation of &lt;a href=&#34;https://www.mdpi.com/1660-4601/15/2/288&#34;&gt;digitally enabled personal carbon monoxide monitors and related smoking cessation apps&lt;/a&gt;, the refinement of the content and design of &lt;a href=&#34;https://drinklessalcohol.com/&#34;&gt;the Drink Less app&lt;/a&gt; and the evaluation of the popular Smoke Free app in a &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/add.14652&#34;&gt;parallel-arm, randomised controlled trial&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smoking, vaping and COVID-19</title>
+      <link>/project/covid/</link>
+      <pubDate>Mon, 21 Dec 2020 15:00:00 +0000</pubDate>
+      <guid>/project/covid/</guid>
+      <description>&lt;p&gt;During the ongoing COVID-19 pandemic, I&amp;rsquo;m co-leading a &lt;a href=&#34;https://www.qeios.com/read/UJR2AW.10&#34;&gt;living evidence review&lt;/a&gt; (updated 9 times to-date, with &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1111/add.15276&#34;&gt;version 7&lt;/a&gt; published in a peer-reviewed journal) on the association of smoking status with SARS-CoV-2 infection, hospitalisation, disease severity and mortality, which is updated every other month. Each update is shared directly with Public Health England’s tobacco control team and Action on Smoking &amp;amp; Health. I&amp;rsquo;m also co-leading a &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2020.11.26.20238469v1.full&#34;&gt;case-control study&lt;/a&gt; at a single UK hospital site to examine the association of smoking status with hospitalisation for COVID-19 compared with other respiratory viruses a year previous, and contribute to a &lt;a href=&#34;https://www.ucl-covid19research.co.uk/&#34;&gt;large survey study&lt;/a&gt; to gain a better understanding of the impact of COVID-19 on smoking, &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2020.12.01.20241760v1&#34;&gt;vaping&lt;/a&gt; and alcohol consumption among UK adults.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Systematic review of Ecological Momentary Assessment (EMA) studies of five public health-related behaviours</title>
+      <link>/project/ema_review/</link>
+      <pubDate>Mon, 21 Dec 2020 15:00:00 +0000</pubDate>
+      <guid>/project/ema_review/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m co-leading a large systematic review of ecological momentary assessment (EMA) studies targeting five public health-related behaviours, including smoking, alcohol, physical activity, dietary behaviours and sexual health-related behaviours. Findings from this review are expected to inform design decisions in future observational EMA studies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
