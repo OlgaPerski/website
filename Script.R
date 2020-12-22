@@ -9,3 +9,5 @@ blogdown::install_hugo()
 ##launch site
 
 blogdown::serve_site()
+
+blogdown::build_site()
