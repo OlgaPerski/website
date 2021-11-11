@@ -24,11 +24,12 @@ interests:
 - smoking cessation
 - alcohol reduction
 - just-in-time adaptive interventions
+- complex adaptive systems
 name: Dr Olga Perski
 organizations:
 - name: University College London
   url: ""
-role: Research Associate
+role: Senior Research Fellow
 social:
 - icon: twitter
   icon_pack: fab
@@ -62,8 +63,8 @@ user_groups:
 
 I'm an interdisciplinary researcher and practitioner health psychologist working at the intersection of behavioural science and technology. I completed my PhD at University College London in 2018, with a <a href="https://discovery.ucl.ac.uk/id/eprint/10063428/">thesis</a> on the definition, measurement and promotion of engagement with digital behaviour change interventions.
 
-I've been working as a Research Associate in the <a href="https://www.ucl.ac.uk/epidemiology-health-care/research/behavioural-science-and-health/research/ucl-tobacco-alcohol-research-group-utarg">UCL Tobacco and Alcohol Research Group</a> since 2018. My research is focused on the development, optimisation and evaluation of interventions for smoking cessation and alcohol reduction delivered via smartphone apps, <a href="https://journals.sagepub.com/doi/full/10.1177/2055207619880676">chatbots</a>, virtual reality and in hybrid human-digital format. I've become very interested in <a href="https://academic.oup.com/tbm/advance-article/doi/10.1093/tbm/ibaa026/5838784">technology-enabled, real-time assessment and modelling of within-person processes</a> and associated ‘just-in-time adaptive interventions’.
+I'm a Senior Research Fellow in the <a href="https://www.ucl.ac.uk/epidemiology-health-care/research/behavioural-science-and-health/research/ucl-tobacco-alcohol-research-group-utarg">UCL Tobacco and Alcohol Research Group</a>. My research is focused on the development, optimisation and evaluation of interventions for smoking cessation and alcohol reduction delivered via smartphone apps, <a href="https://journals.sagepub.com/doi/full/10.1177/2055207619880676">chatbots</a>, virtual reality and in hybrid human-digital format. I'm very interested in the <a href="https://academic.oup.com/tbm/advance-article/doi/10.1093/tbm/ibaa026/5838784">technology-enabled, real-time assessment and modelling of within-person processes</a> and associated <a href="https://pubmed.ncbi.nlm.nih.gov/34514668/">‘just-in-time adaptive interventions’.</a>
 
-As of the global COVID-19 pandemic, I'm co-leading a <a href="https://www.qeios.com/read/UJR2AW.10">living evidence review</a> on the association of smoking status with the risk of SARS-CoV-2 infection, hospitalisation, disease severity and mortality (updated every other month, with <a href="https://onlinelibrary.wiley.com/doi/10.1111/add.15276">v7</a> published in a peer-reviewed journal) and a <a href="https://www.medrxiv.org/content/10.1101/2020.11.26.20238469v1.full">case-control study</a> examining the association of smoking status with hospitalisation for COVID-19 compared with other respiratory viruses a year previous.
+During the global COVID-19 pandemic, I have co-led a <a href="https://www.qeios.com/read/UJR2AW.15">living evidence review</a> on the association of smoking status with the risk of SARS-CoV-2 infection, hospitalisation, disease severity and mortality (updated 12 times between March 2020 and August 2021, with <a href="https://onlinelibrary.wiley.com/doi/10.1111/add.15276">v7</a> published in a peer-reviewed journal).
 
-I'm an advocate of <a href="https://www.opendigitalhealth.org/">Open Digital Health</a> and the sharing of evidence-based digital health tools. I currently act as moderator of the UCL Centre for Behaviour Change's <a href="https://blogs.ucl.ac.uk/cbc-digi-hub-blog/">Digi-Hub Blog</a>, Co-Chair of the <a href="https://www.ucl.ac.uk/healthcare-engineering/">UCL Institute of Healthcare Engineering</a> Careers Delivery Group, and Committee Member for the European Health Psychology Society's <a href="https://twitter.com/ehpsdigihealth?lang=en">Special Interest Group in Digital Health and Computer-Tailoring</a>. I'm an unpaid scientific advisor for <a href="https://smokefreeapp.com/">the Smoke Free app</a> and <a href="https://www.turn.io/">Turn</a>.
+I'm an advocate of <a href="https://www.opendigitalhealth.org/">Open Digital Health</a> and the sharing of evidence-based digital health tools. I act as Co-Chair of the <a href="https://www.ucl.ac.uk/healthcare-engineering/">UCL Institute of Healthcare Engineering</a> Careers Delivery Group, and Committee Member for the European Health Psychology Society's <a href="https://twitter.com/ehpsdigihealth?lang=en">Special Interest Group in Digital Health and Computer-Tailoring</a>. I'm an unpaid scientific advisor for <a href="https://smokefreeapp.com/">the Smoke Free app</a> and <a href="https://www.turn.io/">Turn</a>.

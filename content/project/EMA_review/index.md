@@ -26,4 +26,4 @@ url_slides: ""
 url_video: ""
 ---
 
-I'm co-leading a large systematic review of ecological momentary assessment (EMA) studies targeting five public health-related behaviours, including smoking, alcohol, physical activity, dietary behaviours and sexual health-related behaviours. Findings from this review are expected to inform design decisions in future observational EMA studies.
+I'm co-leading <a href="https://pubmed.ncbi.nlm.nih.gov/34272218/">a large systematic review of ecological momentary assessment (EMA) studies</a> targeting five public health-related behaviours, including smoking, alcohol, physical activity, dietary behaviours and sexual health-related behaviours. Findings from this review are expected to inform design decisions in future EMA studies.
